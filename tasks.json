@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8ae86454-2c2d-4854-b898-ef2fad4f6284",
+    "userId": "cd5f39e3-9d08-462d-951e-9d730a6e071c",
+    "title": "Task Teste",
+    "description": "Verificando o sistema",
+    "status": "done",
+    "deadline": "2026-12-31",
+    "completedAt": "2026-05-16T20:02:14.259Z",
+    "createdAt": "2026-05-16T20:01:59.232Z",
+    "updatedAt": "2026-05-16T20:02:23.024Z"
+  },
+  {
+    "id": "921a863e-9845-4818-8e61-a9be7dbcb4d0",
+    "userId": "c41f2bc4-04dd-4f15-b7f8-3fd798857ab6",
+    "title": "TESTE",
+    "description": "",
+    "status": "done",
+    "deadline": null,
+    "completedAt": "2026-05-16T20:23:56.776Z",
+    "createdAt": "2026-05-16T20:20:51.272Z",
+    "updatedAt": "2026-05-16T20:35:29.376Z"
+  }
+]

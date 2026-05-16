@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cd5f39e3-9d08-462d-951e-9d730a6e071c",
+    "username": "teste",
+    "passwordHash": "$2a$10$EjIYqhEifEjbrdF0yoyUJejJAQFqM7/lxuq.zzqJNeHFmolrzvIL2",
+    "createdAt": "2026-05-16T20:01:32.402Z"
+  },
+  {
+    "id": "c41f2bc4-04dd-4f15-b7f8-3fd798857ab6",
+    "username": "lrsouza",
+    "passwordHash": "$2a$10$ltQOzXLXzA37ibUakRtGkOiMFRCNZyUALuNVQtYZ2tUd52WkfxFqa",
+    "createdAt": "2026-05-16T20:05:02.179Z"
+  }
+]
